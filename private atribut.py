@@ -1,4 +1,6 @@
 # class
+
+#juniarti_D0219008
 class mahasiswa():
 
     __nilai = 0 # private
